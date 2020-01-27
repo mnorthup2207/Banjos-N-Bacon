@@ -1,0 +1,10 @@
+body{
+    margin: 0 auto;
+    font-family: 'Oleo Script', cursive;
+}
+.jumboImg{
+    width: 1096px;
+}
+.jumboH3{
+    font-size: 1.17em;   
+}
