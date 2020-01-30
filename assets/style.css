@@ -1,10 +1,14 @@
 body{
     margin: 0 auto;
     font-family: 'Oleo Script', cursive;
+    width: 100%;
 }
 .jumboImg{
-    width: 1096px;
+    width: 100%;
 }
 .jumboH3{
     font-size: 1.17em;   
+}
+.profileImg{
+    width: 100%;
 }
