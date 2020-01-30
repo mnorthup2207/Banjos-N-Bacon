@@ -12,3 +12,12 @@ body{
 .profileImg{
     width: 100%;
 }
+.socialMedia{
+    position: fixed;
+    top: 10%;
+    left: 2%;
+    z-index: 10;
+}
+.fab{
+    padding-bottom: 2%;
+}
